@@ -1,5 +1,5 @@
 import { Resolver, Mutation, Arg, Query } from "type-graphql";
-import { Product, ProductModel } from "../entities/Products";
+import { Product, ProductModel } from "../entities/ProductsEntities";
 import { ProductInput } from "./types/product-input"
 
 
